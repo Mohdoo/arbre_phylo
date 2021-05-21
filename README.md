@@ -1,7 +1,7 @@
 # Arbre phylogénétique 🌳 #
 
 Base de simulation d’un arbre phylogénétique simple.
-Part d’un organisme ayant un code génétique de base (LUCA), et le fait vivre, muter ou mourir.
+Part d’un organisme ayant un code génétique de base ([LUCA](https://fr.wikipedia.org/wiki/LUCA)), et le fait vivre, muter ou mourir.
 
 ## Lancement 🧫 ##
 
@@ -9,7 +9,7 @@ Exécutez `main.py`.
 
 ## Paramétrage 🧬 ##
 
-Modifiez les constantes `GENERATIONS`, `ADN` et `NUCLEOTIDES` dans `main.py`.
+Modifiez les constantes `GENERATIONS`, `ADN` et `NUCLEOTIDES` dans `config.py`.
 
 ## Complexité & coût 🔬 ##
 
@@ -28,7 +28,7 @@ Ce programme est en CC0 (« Domaine Public »). Faites-en ce que vous voulez
 
 ## 🇺🇸 English Version 🇬🇧 ##
 
-This is a short program intended to simulate organisms and their mutations, with the goal of creating a small phylogenetic tree.
+This is a short program designed to simulate organisms and their mutations, with the goal of creating a small phylogenetic tree. It doesn’t simulate life, only rando mutations.
 The code (variables and comments) is written in French, but with an automatic translation device you should be able to fully understand.
 This program only simulates the organisms, it doesn’t show the full tree because that would be long to implement. All the code is in CC0 (“Public Domain”) so feel free to use it, translate it, do whatever you want!
 
